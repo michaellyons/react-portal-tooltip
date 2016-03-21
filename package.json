@@ -27,8 +27,8 @@
   "author": "Romain Berger <romain@romainberger.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react": "^0.14.*",
+    "react-dom": "^0.14.*"
   },
   "dependencies": {
     "is-client": "0.0.2",
